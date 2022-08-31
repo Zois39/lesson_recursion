@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\bin\Debug\net6.0\cycle.exe
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\bin\Debug\net6.0\cycle.deps.json
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\bin\Debug\net6.0\cycle.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\bin\Debug\net6.0\cycle.dll
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\bin\Debug\net6.0\cycle.pdb
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\cycle.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\cycle.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\cycle.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\cycle.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\cycle.dll
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\refint\cycle.dll
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\cycle.pdb
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\cycle.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C#\Seminars\cycle\obj\Debug\net6.0\ref\cycle.dll
